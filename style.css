@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* .top-bar{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+} */
+
+.container{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+h1{
+    background: black;
+    color: white;
+    padding: 20px;
+    margin: 5px;
+}
+
+.container-1{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+ } 
+
+ .callout{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+ }
+
+ .fa-brands{
+    float: right;
+    padding: 5px;
+    font-size: 20px;
+ }
+
+ .h5{
+    color: brown;
+ }
